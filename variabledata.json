@@ -1,0 +1,19 @@
+{
+    "variabledata": [
+        {
+            "varname": "x",
+            "varunit": "秒(s)",
+            "varun": "用于描述时间的值"
+        },
+        {
+            "varname": "y",
+            "varunit": "米(m)",
+            "varun": "用于描述长度的值"
+        },
+        {
+            "varname": "z",
+            "varunit": "千克(kg)",
+            "varun": "用于描述重量的值"
+        }
+    ]
+}
